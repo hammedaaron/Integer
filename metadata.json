@@ -1,0 +1,6 @@
+{
+  "name": "Codebase & Document Ingestor",
+  "description": "Ingest codebases, ZIP files, folders, and documents into consolidated text formats with schematic structure diagrams and JSON export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

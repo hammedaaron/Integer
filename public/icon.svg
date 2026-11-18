@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#171717" />
+  <rect x="36" y="36" width="440" height="440" rx="72" fill="none" stroke="#262626" stroke-width="8" />
+  <!-- Minimalist IN monogram matching app header -->
+  <!-- I -->
+  <rect x="148" y="160" width="40" height="192" rx="6" fill="#ffffff" />
+  <!-- N -->
+  <path d="M236 352V160h38l74 122V160h38v192h-38l-74-122v122h-38z" fill="#ffffff" />
+</svg>
